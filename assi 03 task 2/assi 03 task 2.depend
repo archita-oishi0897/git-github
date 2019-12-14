@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1576164133 source:c:\users\hp\desktop\225 practice\assi 03 task 2\main.cpp
+	"QueueType.h"
+	<iostream>
+
+1576164179 c:\users\hp\desktop\225 practice\assi 03 task 2\include\queuetype.h
+
+1576164133 source:c:\users\hp\desktop\225 practice\assi 03 task 2\src\queuetype.cpp
+	"QueueType.h"
+	<iostream>
+

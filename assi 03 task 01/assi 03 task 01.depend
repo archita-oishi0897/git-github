@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1576163487 source:c:\users\hp\desktop\225 practice\assi 03 task 01\main.cpp
+	"StackType.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1576163487 c:\users\hp\desktop\225 practice\assi 03 task 01\include\stacktype.h
+
+1576163487 source:c:\users\hp\desktop\225 practice\assi 03 task 01\src\stacktype.cpp
+	<iostream>
+	<string>
+	"StackType.h"
+
